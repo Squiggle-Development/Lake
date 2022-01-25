@@ -1,3 +1,4 @@
 https://github.com/Squiggle-Development/Lake/blob/main/imports/HRV.txt?raw=true,HRV.txt
 https://github.com/Squiggle-Development/Lake/blob/main/imports/logo.ico?raw=true,logo.ico
+https://github.com/Squiggle-Development/Lake/blob/main/imports/notif.wav?raw=true,notif.wav
 https://github.com/Squiggle-Development/Lake/blob/main/imports/splash.png?raw=true,splash.png
